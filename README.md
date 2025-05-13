@@ -1,4 +1,5 @@
-```markdown
+---
+
 # 🧮 Angular Calculator (Docker + Nginx)
 
 This is a calculator web application built with Angular, containerized using Docker, and served via Nginx. It is designed for fast, production-ready deployment using a multi-stage Docker build.
