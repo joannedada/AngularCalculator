@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🧮 Angular Calculator (Docker + Nginx)
 
@@ -174,14 +172,3 @@ ng build --prod
 The output will be stored in `dist/angular-calculator`.
 
 ---
-
-
-## 📸 Screenshots to Include
-
-* ✅ Dockerfile contents
-* ✅ nginx.conf contents
-* ✅ Working app at [http://localhost](http://localhost)
-* ✅ Docker Hub image page
-
-```
-```
